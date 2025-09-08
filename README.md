@@ -1,4 +1,4 @@
 # Algoprep
 This is my first Git Repository
 <br>
-Author-siddharth
+Author-siddharth jha
